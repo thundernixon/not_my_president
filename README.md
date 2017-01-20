@@ -4,3 +4,7 @@ A simple open-source sign for protest, if you want one. Designed specifically fo
 Carry an American flag _and_ an American sentiment, in one convenient package!
 
 Just download the zip, then choose what color works best for your needs over the weekend / next four years.
+
+## License
+
+MIT License, so you can freely change, modify, or even make something out of it an sell it. The files are left intentionally as vectors, in case you want to do any of that. Enjoy!
